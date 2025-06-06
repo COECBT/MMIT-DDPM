@@ -4,6 +4,9 @@ We provide the official PyTorch implementation of the paper [MMIT-DDPM – Multi
 
 The implementation of Denoising Diffusion Probabilistic Models presented in the paper is based on [openai/improved-diffusion](https://github.com/openai/improved-diffusion) and [JuliaWolleb/Diffusion-based-Segmentation](https://github.com/JuliaWolleb/Diffusion-based-Segmentation).
 
+The paper is published in Computers in Biology and Medicine Jounal. Here is the link to the paper: [ MMIT-DDPM – Multilateral medical image translation with class and 
+structure supervised diffusion-based model](https://doi.org/10.1016/j.compbiomed.2024.109501)
+
 
 ## Data
 
